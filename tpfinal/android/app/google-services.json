@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854635564709",
+    "project_id": "epicerie-cf65b",
+    "storage_bucket": "epicerie-cf65b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854635564709:android:358cef01993c466c77c74c",
+        "android_client_info": {
+          "package_name": "com.example.tpfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854635564709-31kg4rgs5keecm9b5aldi12besvmm5p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2ihz1pQzYNfSeD-pPdkf1JTIM1J2SKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854635564709-31kg4rgs5keecm9b5aldi12besvmm5p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
